@@ -29,22 +29,22 @@
 为方便复现实验和使用该模型，实验中使用到的LoRA权重，模型，以及数据集均进行公开：
 | LoRA   | 链接   |
 |-------|-------|
-| chinese_alpaca_plus_lora_7b | 行1列2 |
-| chinese_alpaca_pro_lora_7b | 行2列2 |
-| chinese_llama_plus_lora_7b | 行3列2 |
-| chinese_alpaca_2_lora_7b | 行4列2 |
-| chinese_alpaca_2_lora_7b | 行5列2 |
-| chinese_alpaca_plus_lora_13b | 行6列2 |
-| chinese_llama_plus_lora_13b | 行6列2 |
+| chinese_alpaca_plus_lora_7b | [百度网盘](https://pan.baidu.com/s/1FuxaLDZ3K7Xmnie4hHKjBw?pwd=dps6) |
+| chinese_alpaca_pro_lora_7b | [百度网盘](https://pan.baidu.com/s/1vgEL7RLpZMBrXa1VowAmbA?pwd=k3xc) |
+| chinese_llama_plus_lora_7b | [百度网盘](https://pan.baidu.com/s/1OQ271ZylzoD1BIgkHEA5RQ?pwd=i6tv) |
+| chinese_alpaca_2_lora_7b | [百度网盘](https://pan.baidu.com/s/13SDCCMLHOr27M1fNt0PLjQ?pwd=5a3x) |
+| chinese_llama_2_lora_7b | [百度网盘](https://pan.baidu.com/s/15Ui4gjuRVSWFyyObv5HdVw?pwd=hfyy) |
+| chinese_alpaca_plus_lora_13b | [百度网盘](https://pan.baidu.com/s/16R72rygdx4XrBQEeuYsWMQ?pwd=5w3z) |
+| chinese_llama_plus_lora_13b | [百度网盘](https://pan.baidu.com/s/1bi0RjlhBEHE1aUJj4EaGew?pwd=anfa) |
 
 | huggingface模型   | 链接   |
 |-------|-------|
-| 7B_hf | 行1列2 |
-| Llama-2-7b-chat-hf | 行2列2 |
+| 7B_hf | [百度网盘](https://pan.baidu.com/s/1GdScmUBAsT-XhvNt-0N_mg?pwd=nowg) |
+| Llama-2-7b-chat-hf | [百度网盘](https://pan.baidu.com/s/1Z_0bzdyCOf83Pg9IDOLNeg?pwd=scio) |
 
 | model   | 链接   |
 |-------|-------|
-| 7B_Full | 行1列2 |
-| Llama-7b-chat | 行2列2 |
-| 7B_Full_pretain | 行3列2 |
-| Chinese-Law-Chat | 行4列2 |
+| 7B_Full | [百度网盘](https://pan.baidu.com/s/1nIwvXW3FDj5fzZUJGjCPVQ?pwd=ib75) |
+| Llama-7b-chat | [百度网盘](https://pan.baidu.com/s/16s9ZlugBwi86bFcgIBfJ_g?pwd=d3go) |
+| 7B_Full_pretain | [百度网盘](https://pan.baidu.com/s/16TvHJw1P6A4ub4nRYVpqyw?pwd=dpxd) |
+| Chinese-Law-Chat | [百度网盘](https://pan.baidu.com/s/1Ybei2_recVWfKXyp9lG-sA?pwd=w54x) |
