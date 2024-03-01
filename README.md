@@ -1,5 +1,7 @@
 # Chinese-Law-Chat
 以Llama为基底模型微调得到的中文法律大模型
+<img width="213" alt="image" src="https://github.com/yangyuhanga/Chinese-Law-Chat/assets/131662288/668f55e3-7a3e-4dde-843c-054ea130bf91">
+
 | LoRA   | 链接   |
 |-------|-------|
 | chinese_alpaca_plus_lora_7b | 行1列2 |
