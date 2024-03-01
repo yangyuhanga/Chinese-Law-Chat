@@ -28,6 +28,9 @@
 # 实验结果
 我们使用c-eval对我们的模型进行测试，无论是知识定义问题还是案例分析问题，无论是零样本学习效果还是少样本学习效果，Chinese-Law-Chat模型相比于Chinese-LLaMA-Alpaca-7B和Llama-2-7b-chat都更加出色。
 
+# 推理
+参考[Chinese-LLaMA-Alpaca项目](https://github.com/ymcui/Chinese-LLaMA-Alpaca)相关脚本
+
 # 使用
 为方便复现实验和使用该模型，实验中使用到的LoRA权重，模型均进行公开：
 | LoRA   | 链接   |
